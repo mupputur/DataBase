@@ -1,0 +1,71 @@
+CREATE TABLE:
+--------------------------------------------------------------------------------------
+Village varchar()     Pass_year int    Qualification varchar()   Stream varchar()
+--------------------------------------------------------------------------------------
+
+#################################
+
+DELETE TABLE:
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+
+##################################
+
+INSERT TABLE RECORDS:
+---------------------------------------------------------------------------------------
+Village varchar()     Pass_year int    Qualification varchar()   Stream varchar()
+---------------------------------------------------------------------------------------
+ Ramakrishnapuram                  2018             B.tech                     Civil
+
+ Ramakrishnapuram1                 2016             B.tech                     Civil
+
+ Ramakrishnapuram2                 2020             B.tech                     Civil
+
+##################################
+
+REMOVE (OR) DELETE TABLE RECORDS:
+---------------------------------------------------------------------------------------
+Village varchar()     Pass_year int    Qualification varchar()   Stream varchar()
+---------------------------------------------------------------------------------------
+ Ramakrishnapuram                  2018             B.tech                     Civil
+
+ Ramakrishnapuram2                 2020             B.tech                     Civil
+
+ #################################
+
+ FETCH ALL RECORDS:
+ --------------------------------------------------------------------------------------
+ Village varchar()     Pass_year int    Qualification varchar()   Stream varchar()
+---------------------------------------------------------------------------------------
+ Ramakrishnapuram                  2018             B.tech                     Civil
+
+ Ramakrishnapuram1                 2016             B.tech                     Civil
+
+ Ramakrishnapuram2                 2020             B.tech                     Civil
+
+ Ramakrishnapuram3                 2016             B.tech                     Civil
+
+ Ramakrishnapuram4                 2016             B.tech                     Civil
+
+ #######################################
+
+ FETCH MANY RECORDS:
+
+  --------------------------------------------------------------------------------------
+ Village varchar()     Pass_year int    Qualification varchar()   Stream varchar()
+---------------------------------------------------------------------------------------
+ Ramakrishnapuram                  2018             B.tech                     Civil
+
+ Ramakrishnapuram1                 2016             B.tech                     Civil
+
+ Ramakrishnapuram2                 2020             B.tech                     Civil
+
+ ##################################
+
+  FETCH ONE RECORD:
+
+--------------------------------------------------------------------------------------
+ Village varchar()     Pass_year int    Qualification varchar()   Stream varchar()
+---------------------------------------------------------------------------------------
+ Ramakrishnapuram3                  2018             B.tech                     Civil
